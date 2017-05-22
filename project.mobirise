@@ -85,7 +85,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/1402944962e-1-2000x1375.jpg",
                 "contentAlign": "right",
                 "overlay": false,
@@ -98,23 +98,23 @@
               },
               {
                 "active": false,
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bzjvjyzjjm2etzwq2mc00ognkltlmzgytzdk3zjzizte0ngi0xkeyxkfqcgdeqxvynjewntm2mzc-2000x1332.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "American Gods",
                 "showText": true,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View more</a> "
               },
               {
-                "active": false,
-                "image": "images/slide3.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sense8-202-lito-capheus-sun-2000x1335.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "Sense8",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View more</a> "
               },
