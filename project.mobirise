@@ -101,7 +101,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mv5bzjvjyzjjm2etzwq2mc00ognkltlmzgytzdk3zjzizte0ngi0xkeyxkfqcgdeqxvynjewntm2mzc-2000x1332.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "American Gods",
+                "title": "Ongoing shows",
                 "showText": true,
                 "text": "A recently released ex-convict named Shadow meets a mysterious man who calls himself \"Wednesday\" and who knows more than he first seems to about Shadow's life and past.",
                 "showButtons": true,
@@ -112,9 +112,9 @@
                 "image": "@PROJECT_PATH@/assets/images/sense8-202-lito-capheus-sun-2000x1335.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Sense8",
+                "title": "Rising shows",
                 "showText": true,
-                "text": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.<br>",
+                "text": "New shows that are rising up in the viewer charts.<br>",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View more</a> "
               },
@@ -123,9 +123,9 @@
                 "image": "images/slide3.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Slide 3",
+                "title": "Finished shows",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Shows that are already finished but are definitely worth watching.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View more</a> "
               }
