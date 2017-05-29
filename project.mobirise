@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "finished.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -53,12 +53,12 @@
             "bgColor": "#333333",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -141,7 +141,7 @@
         }
       ]
     },
-    "page1.html": {
+    "finished.html": {
       "settings": {
         "title": "Website Creator Title",
         "meta_descr": "Website Creator Description"
@@ -155,7 +155,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -164,7 +164,7 @@
               "background": "#292929"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -176,12 +176,12 @@
             "bgColor": "#333333",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -219,7 +219,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "columns": 4,
             "showImages": true,
@@ -228,7 +228,7 @@
             "showButtons": true
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "RECOMMENDED SHOWS THAT ARE FINISHED",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {

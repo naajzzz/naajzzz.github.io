@@ -24,7 +24,7 @@
 #dropdown-menu-8 .nav .link,
 #dropdown-menu-8 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #000000;
 }
 #dropdown-menu-8 .navbar,
 #dropdown-menu-8 .dropdown-menu {
@@ -36,5 +36,5 @@
   background: #292929;
 }
 #dropdown-menu-8 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
